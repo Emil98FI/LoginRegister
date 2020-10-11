@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "LoginRegister",
+			"path": "."
+		},
+		{
+			"name": "screens",
+			"path": "..\\react-navigation-v5-mix-master\\screens"
+		},
+		{
+			"name": "components",
+			"path": "..\\react-navigation-v5-mix-master\\components"
+		}
+	],
+	"settings": {}
+}
